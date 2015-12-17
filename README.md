@@ -1,7 +1,9 @@
 # Cloud_Project
 
 For Documentation:  SecureUI/Documentation 
+
 Youtube: https://youtu.be/y6yWZXkTELQ
+
 SlideShare: http://www.slideshare.net/AkshayDharphale/mobile-security-solutions
 
 This project aims at using android devices in place of CCTV cameras as they are cheaper alternatives. The device captures the picture,
