@@ -1,5 +1,7 @@
 # Cloud_Project
 
+For Documentation:  SecureUI/Documentation 
+
 This project aims at using android devices in place of CCTV cameras as they are cheaper alternatives. The device captures the picture,
 uploads in a predefined interval (session) to the cloud.
 
